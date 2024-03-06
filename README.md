@@ -1,2 +1,2 @@
 # Minizinc_Solver
-hi
+hi hi 
